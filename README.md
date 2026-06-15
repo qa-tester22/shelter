@@ -1,6 +1,3 @@
-# shelter
-Shelter
-
 # Shelter Part 1
 
 ## Deploy
@@ -13,6 +10,7 @@ https://qa-tester22.github.io/shelter/shelter/index.html
 - our pets page
 https://qa-tester22.github.io/shelter/shelter/pets/
 * [v] Pull Request link:
+- https://github.com/qa-tester22/shelter/pull/2
  - Deploy: https://qa-tester22.github.io/shelter/shelter/
  - Source branch: https://github.com/qa-tester22/shelter/tree/shelter
 
